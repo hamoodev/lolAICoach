@@ -1,0 +1,250 @@
+[
+  {
+    "championName": "Kindred",
+    "isBot": false,
+    "isDead": false,
+    "items": [
+      {
+        "canUse": false,
+        "consumable": false,
+        "count": 1,
+        "displayName": "Scorchclaw Pup",
+        "itemID": 1101,
+        "price": 450,
+        "rawDescription": "GeneratedTip_Item_1101_Description",
+        "rawDisplayName": "Item_1101_Name",
+        "slot": 0
+      },
+      {
+        "canUse": false,
+        "consumable": false,
+        "count": 1,
+        "displayName": "Rapid Firecannon",
+        "itemID": 3094,
+        "price": 850,
+        "rawDescription": "GeneratedTip_Item_3094_Description",
+        "rawDisplayName": "Item_3094_Name",
+        "slot": 1
+      },
+      {
+        "canUse": false,
+        "consumable": false,
+        "count": 1,
+        "displayName": "The Collector",
+        "itemID": 6676,
+        "price": 475,
+        "rawDescription": "GeneratedTip_Item_6676_Description",
+        "rawDisplayName": "Item_6676_Name",
+        "slot": 2
+      },
+      {
+        "canUse": false,
+        "consumable": false,
+        "count": 1,
+        "displayName": "Plated Steelcaps",
+        "itemID": 3047,
+        "price": 600,
+        "rawDescription": "GeneratedTip_Item_3047_Description",
+        "rawDisplayName": "Item_3047_Name",
+        "slot": 3
+      },
+      {
+        "canUse": false,
+        "consumable": false,
+        "count": 1,
+        "displayName": "Infinity Edge",
+        "itemID": 3031,
+        "price": 825,
+        "rawDescription": "GeneratedTip_Item_3031_Description",
+        "rawDisplayName": "Item_3031_Name",
+        "slot": 4
+      },
+      {
+        "canUse": false,
+        "consumable": false,
+        "count": 1,
+        "displayName": "Lord Dominik's Regards",
+        "itemID": 3036,
+        "price": 250,
+        "rawDescription": "GeneratedTip_Item_3036_Description",
+        "rawDisplayName": "Item_3036_Name",
+        "slot": 5
+      },
+      {
+        "canUse": true,
+        "consumable": false,
+        "count": 1,
+        "displayName": "Stealth Ward",
+        "itemID": 3340,
+        "price": 0,
+        "rawDescription": "GeneratedTip_Item_3340_Description",
+        "rawDisplayName": "Item_3340_Name",
+        "slot": 6
+      }
+    ],
+    "level": 11,
+    "position": "",
+    "rawChampionName": "game_character_displayname_Kindred",
+    "rawSkinName": "game_character_skin_displayname_Kindred_9",
+    "respawnTimer": 0,
+    "riotId": "Hamoodev#NA1",
+    "riotIdGameName": "Hamoodev",
+    "riotIdTagLine": "NA1",
+    "runes": {
+      "keystone": {
+        "displayName": "Conqueror",
+        "id": 8010,
+        "rawDescription": "perk_tooltip_Conqueror",
+        "rawDisplayName": "perk_displayname_Conqueror"
+      },
+      "primaryRuneTree": {
+        "displayName": "Precision",
+        "id": 8000,
+        "rawDescription": "perkstyle_tooltip_7201",
+        "rawDisplayName": "perkstyle_displayname_7201"
+      },
+      "secondaryRuneTree": {
+        "displayName": "Domination",
+        "id": 8100,
+        "rawDescription": "perkstyle_tooltip_7200",
+        "rawDisplayName": "perkstyle_displayname_7200"
+      }
+    },
+    "scores": {
+      "assists": 0,
+      "creepScore": 0,
+      "deaths": 0,
+      "kills": 3,
+      "wardScore": 0
+    },
+    "skinID": 9,
+    "skinName": "Spirit Blossom Kindred",
+    "summonerName": "Hamoodev#NA1",
+    "summonerSpells": {
+      "summonerSpellOne": {
+        "displayName": "Flash",
+        "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+        "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+      },
+      "summonerSpellTwo": {
+        "displayName": "Smite",
+        "rawDescription": "GeneratedTip_SummonerSpell_SummonerSmite_Description",
+        "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerSmite_DisplayName"
+      }
+    },
+    "team": "ORDER"
+  },
+  {
+    "championName": "Darius",
+    "isBot": true,
+    "isDead": true,
+    "items": [
+      {
+        "canUse": false,
+        "consumable": false,
+        "count": 1,
+        "displayName": "Doran's Shield",
+        "itemID": 1054,
+        "price": 450,
+        "rawDescription": "GeneratedTip_Item_1054_Description",
+        "rawDisplayName": "Item_1054_Name",
+        "slot": 0
+      },
+      {
+        "canUse": false,
+        "consumable": false,
+        "count": 1,
+        "displayName": "Mercury's Treads",
+        "itemID": 3111,
+        "price": 600,
+        "rawDescription": "GeneratedTip_Item_3111_Description",
+        "rawDisplayName": "Item_3111_Name",
+        "slot": 2
+      },
+      {
+        "canUse": true,
+        "consumable": false,
+        "count": 1,
+        "displayName": "Tiamat",
+        "itemID": 3077,
+        "price": 500,
+        "rawDescription": "GeneratedTip_Item_3077_Description",
+        "rawDisplayName": "Item_3077_Name",
+        "slot": 3
+      },
+      {
+        "canUse": false,
+        "consumable": false,
+        "count": 1,
+        "displayName": "Dagger",
+        "itemID": 1042,
+        "price": 250,
+        "rawDescription": "GeneratedTip_Item_1042_Description",
+        "rawDisplayName": "Item_1042_Name",
+        "slot": 4
+      },
+      {
+        "canUse": true,
+        "consumable": false,
+        "count": 1,
+        "displayName": "Stealth Ward",
+        "itemID": 3340,
+        "price": 0,
+        "rawDescription": "GeneratedTip_Item_3340_Description",
+        "rawDisplayName": "Item_3340_Name",
+        "slot": 6
+      }
+    ],
+    "level": 10,
+    "position": "MIDDLE",
+    "rawChampionName": "game_character_displayname_Darius",
+    "rawSkinName": "game_character_skin_displayname_Darius_0",
+    "respawnTimer": 32.29936218261719,
+    "riotId": "Darius#BOT",
+    "riotIdGameName": "Darius",
+    "riotIdTagLine": "BOT",
+    "runes": {
+      "keystone": {
+        "displayName": "Grasp of the Undying",
+        "id": 8437,
+        "rawDescription": "perk_tooltip_GraspOfTheUndying",
+        "rawDisplayName": "perk_displayname_GraspOfTheUndying"
+      },
+      "primaryRuneTree": {
+        "displayName": "Resolve",
+        "id": 8400,
+        "rawDescription": "perkstyle_tooltip_7204",
+        "rawDisplayName": "perkstyle_displayname_7204"
+      },
+      "secondaryRuneTree": {
+        "displayName": "Sorcery",
+        "id": 8200,
+        "rawDescription": "perkstyle_tooltip_7202",
+        "rawDisplayName": "perkstyle_displayname_7202"
+      }
+    },
+    "scores": {
+      "assists": 0,
+      "creepScore": 60,
+      "deaths": 3,
+      "kills": 0,
+      "wardScore": 6.20081901550293
+    },
+    "skinID": 0,
+    "skinName": "",
+    "summonerName": "Darius Bot",
+    "summonerSpells": {
+      "summonerSpellOne": {
+        "displayName": "Flash",
+        "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+        "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+      },
+      "summonerSpellTwo": {
+        "displayName": "Ghost",
+        "rawDescription": "GeneratedTip_SummonerSpell_SummonerHaste_Description",
+        "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerHaste_DisplayName"
+      }
+    },
+    "team": "CHAOS"
+  }
+]
